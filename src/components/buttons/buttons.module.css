@@ -1,0 +1,9 @@
+.simple {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+.active {
+    background-color: chartreuse;
+    color: whitesmoke;
+}
